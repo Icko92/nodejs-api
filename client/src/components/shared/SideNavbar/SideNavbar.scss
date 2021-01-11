@@ -1,0 +1,12 @@
+.side-navbar {
+  width: 15%;
+  height: 100vh;
+  background-color: #2e2e2e;
+  position: fixed;
+  .side-nav-links {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5vw;
+    color: white;
+  }
+}
